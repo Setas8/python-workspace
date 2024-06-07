@@ -32,15 +32,15 @@ Make sure you have Python 3.12.3 installed. You can download it from the officia
 ## Installation
 1. Clone the repository:
 
-'''sh:
+```sh:
 git clone https://github.com/your-username/python-exercises.git
-'''
+```
 
 2. Navigate to the project directory:
 
-'''sh:
+```sh:
 cd python-exercises
-'''
+```
 
 ## Usage
 To start working on the exercises, navigate to the desired directory (basics or oop) and open the exercise files with your preferred code editor. Each exercise file contains instructions and tasks for you to complete.
@@ -51,19 +51,21 @@ Contributions are welcome! If you have any suggestions for new exercises or impr
 
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix:
-'''sh:
+```sh:
 git checkout -b feature-name
-'''
+````
 
 3. Commit your changes:
-'''sh:
+```sh:
 git commit -m 'Add some feature'
-'''
+```
+
+
 
 4. Push to the branch:
-'''sh:
+```sh:
 git push origin feature-name
-'''
+```
 
 5. Open a pull request.
 
