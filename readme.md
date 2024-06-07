@@ -30,7 +30,7 @@ To get started with these exercises, you will need to clone the repository and h
 Make sure you have Python 3.12.3 installed. You can download it from the official Python website.
 
 ## Installation
-1. Clone the repository:
+1. Clone the repository: 
 ```sh:
 git clone https://github.com/your-username/python-exercises.git
 ```
