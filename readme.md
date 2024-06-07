@@ -31,13 +31,11 @@ Make sure you have Python 3.12.3 installed. You can download it from the officia
 
 ## Installation
 1. Clone the repository:
-
 ```sh:
 git clone https://github.com/your-username/python-exercises.git
 ```
 
 2. Navigate to the project directory:
-
 ```sh:
 cd python-exercises
 ```
