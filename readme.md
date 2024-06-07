@@ -54,7 +54,7 @@ Contributions are welcome! If you have any suggestions for new exercises or impr
 
 ```
 git checkout -b feature-name
-````
+```
 
 3. Commit your changes:
 
